@@ -1,13 +1,13 @@
 # Logus — WordPress Business Theme
 
-* Download: https://es.wordpress.org/themes/logus
-* Demo: https://superadmin.es/logus
-
 ## Description
 
 Logus is a theme for small business.
 
 For help and more information about Logus please go to https://superadmin.es/contacto
+
+* Download: https://es.wordpress.org/themes/logus
+* Demo: https://superadmin.es/logus
 
 ## Installation
 
